@@ -1,3 +1,5 @@
+package CalculoIndiceMassaCorporal;
+
 class Paciente {
     private double peso;
     private double altura;
